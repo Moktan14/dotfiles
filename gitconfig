@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = moktandhorje@gmail.com
+	name = Chhokdhorje Moktan
